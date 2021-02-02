@@ -12,7 +12,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "taofei"
+        "name": "TF",
+        "email": "itaofei@qq.com"
     }
   ],
   "autoload": {
