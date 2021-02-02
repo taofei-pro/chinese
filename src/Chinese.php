@@ -12,7 +12,7 @@ class Chinese
      *
      * @var string
      */
-    const VERSION = '0.1.2';
+    const VERSION = '1.0.0';
 
     /**
      * 拼音字典
