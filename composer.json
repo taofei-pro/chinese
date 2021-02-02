@@ -1,5 +1,5 @@
 {
-  "name": "tf/chinese",
+  "name": "taofei/chinese",
   "description": "获取汉字的拼音, 或者简繁体转换.",
   "keywords": [
     "chinese",
